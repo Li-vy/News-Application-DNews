@@ -21,7 +21,7 @@ import java.util.ArrayList;
 public class MainActivity extends AppCompatActivity {
 
     // set the API_KEY variable to your api key
-    private static String API_KEY="3dcf3869b36d44f593ca5b77d95fd139";
+    private static String API_KEY="API_KEY_HERE";
 
     // setting the TAG for debugging purposes
     private static String TAG="MainActivity";
